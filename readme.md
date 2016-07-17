@@ -1,9 +1,9 @@
 # Network helpers
 
-[![Build Status](https://img.shields.io/travis/weew/php-helpers-network.svg)](https://travis-ci.org/weew/php-helpers-network)
-[![Test Coverage](https://img.shields.io/coveralls/weew/php-helpers-network.svg)](https://coveralls.io/github/weew/php-helpers-network)
-[![Version](https://img.shields.io/packagist/v/weew/php-helpers-network.svg)](https://packagist.org/packages/weew/php-helpers-network)
-[![Licence](https://img.shields.io/packagist/l/weew/php-helpers-network.svg)](https://packagist.org/packages/weew/php-helpers-network)
+[![Build Status](https://img.shields.io/travis/weew/helpers-network.svg)](https://travis-ci.org/weew/helpers-network)
+[![Test Coverage](https://img.shields.io/coveralls/weew/helpers-network.svg)](https://coveralls.io/github/weew/helpers-network)
+[![Version](https://img.shields.io/packagist/v/weew/helpers-network.svg)](https://packagist.org/packages/weew/helpers-network)
+[![Licence](https://img.shields.io/packagist/l/weew/helpers-network.svg)](https://packagist.org/packages/weew/helpers-network)
 
 ## Table of contents
 
@@ -14,7 +14,7 @@
 
 ## Installation
 
-`composer require weew/php-helpers-network`
+`composer require weew/helpers-network`
 
 ## Introduction
 

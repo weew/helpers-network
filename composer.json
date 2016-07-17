@@ -1,6 +1,6 @@
 {
-    "name": "weew/php-helpers-network",
-    "description": "Tiny library for network interaction.",
+    "name": "weew/helpers-network",
+    "description": "Collection of helper functions for network interactions.",
     "license": "MIT",
     "authors": [
         {
